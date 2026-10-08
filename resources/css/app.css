@@ -20,3 +20,7 @@
     --text-header-2 : 48px;
     --text-header-1 : 60px;
 }
+
+@utility mask-linear {
+    mask-image: linear-gradient(270deg, black 50%, transparent);
+}
